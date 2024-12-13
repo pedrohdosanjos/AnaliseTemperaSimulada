@@ -1,3 +1,3 @@
 ## Descrição
 
-Análise dos resultadosde execução da Têmpera Simulada
+Análise dos resultados de execução da Têmpera Simulada
